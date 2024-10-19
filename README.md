@@ -7,6 +7,9 @@ This project is a web-based interface for **StudySync**, designed using **HTML**
 - **Responsive Design**: The UI is designed to be responsive, ensuring a seamless experience across different devices.
 - **Hover Effects**: Interactive hover effects, such as scaling images, are used to enhance the user experience.
 - **Modern Design**: The layout and styles follow modern design practices, making the interface visually appealing and easy to navigate.
+## Screenshot
+
+![Project Screenshot](assets/screnShort.png)
 
 ## Technologies Used
 
