@@ -17,7 +17,7 @@ This project is a web-based interface for **StudySync**, designed using **HTML**
 
 Check out the live demo of the project here:
 
-[Live Demo](https://your-username.github.io/StudySync-UI/)
+[Live Demo](https://study-sync-gamma.vercel.app/)
 
 
  
